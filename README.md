@@ -164,5 +164,5 @@ RMSPE = \sqrt{\frac{1}{n} \sum_{i=1}^{n} \left( \frac{y_i - \hat{y}_i}{y_i} \rig
 ## 🧾 Author  
 **Sri Sai Chowadry Thati**  
 *Certified Data Analyst (AnalytixLabs)*  
-📧 [Email Placeholder]  
+📧 srisaichowdary1210@gmail.com
 📍 India  
